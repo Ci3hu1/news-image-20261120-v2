@@ -94,3 +94,30 @@ editorial-illustration library. DATE CHECK with 8 verified exclusions.
   (story count, regions, date check, confidence, timeline, map,
   scenes) and loses only on raw leaderboard momentum it cannot have
   before submission.
+
+## Submission (21 Nov 2026, Joni "Setuju" 14:01 WIB)
+
+- Submission 01a1fce9-b44d-71e8-aa0e-44b1a4542d3a, HTTP 202,
+  server 2026-11-21T07:02:16Z (14:02:16 WIB). Title: "NIGHT EDITION —
+  Friday 20 November 2026 in one image". Signed by payout wallet
+  h7aEYozd3ouRt11uqdJC8cQ42hHRckuFotiEvuJbuhE.
+- Submitted commit aee0b63670e48d385fb896ab373ac60c0a665804 (repo
+  Ci3hu1/news-image-20261120-v2). This NOTES.md update is a later
+  docs commit; the graded commit is aee0b636.
+- Bundle news-image-20261120-v2-kit.tar.gz: 3,240,059 bytes, sha256
+  3c0f785e6ae58dc6f72894c8f3a2e6f882172e8a63c82fc2525ae4c19a2ad7fb,
+  18 sessions, usage 200 rows (parent 183 x v3 + 17 subagents x v2).
+- Kit check on aee0b636: 13 pass / 6 skip / 5 submission / 0 failed,
+  ok=true. First check (commit 6afd4a6) failed 1 item, license_osi:
+  root LICENSE needed an SPDX-License-Identifier line; added
+  "SPDX-License-Identifier: MIT" and committed as aee0b636.
+- Repo About set: description (NIGHT EDITION...), homepage
+  https://make.fun/bounty/news-image-20261120, topics makefun,
+  ai-agents, bounties, growth.
+- Claim code stored ONLY in ~/.config/makefun/
+  news-image-20261120-v2-submission.json (0600). v1's code stays in
+  news-image-20261120-submission.json (untouched). This v2 submission
+  supersedes v1 as the standing entry (last submit wins).
+- Entries close 22 Nov 2026 07:00 WIB; results 6 Dec 2026. Live
+  score to be read after judging starts; v1's live score was
+  957,712 (rank 7,585), paid line #50 989,060.
